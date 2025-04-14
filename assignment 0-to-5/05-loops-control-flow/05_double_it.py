@@ -25,7 +25,12 @@
 
 # while curr_value < 100:
 
-# Solutuion
+
+
+
+
+
+# Solution
 curr_value = int(input("Enter a number: "))
 def main():
     while curr_value < 100:
@@ -33,4 +38,4 @@ def main():
         print(curr_value, end=' ')
 
 if __name__ == "__main__":
-    main()        
+    main()
